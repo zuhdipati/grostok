@@ -1,6 +1,6 @@
 # 🛍️ Grostok
 
-**Grostok** adalah aplikasi e-commerce sederhana berbasis Flutter yang menggunakan [dummyjson.com](https://dummyjson.com) sebagai sumber data produk. Aplikasi ini dirancang sebagai showcase implementasi **Flutter BLoC** untuk state management dengan berbagai fitur e-commerce modern.
+**Grostok** adalah aplikasi e-commerce sederhana berbasis Flutter yang menggunakan [dummyjson.com](https://dummyjson.com) sebagai sumber data produk. Aplikasi ini dirancang sebagai showcase implementasi **Flutter BLoC** untuk state management dengan berbagai fitur e-commerce modern. Aplikasi ini bisa diakses menggunakan Android dan IOS
 
 ---
 
@@ -19,8 +19,8 @@
 
 ## 🧰 Teknologi & Tools
 
-- **Flutter** 💙
-- **BLoC (flutter_bloc)** 🔄
+- **Flutter** 
+- **BLoC (flutter_bloc)** 
 - **http** untuk HTTP request
 - **Cached Network Image** untuk caching gambar
 - **Equatable** untuk state comparison
