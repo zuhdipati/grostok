@@ -1,0 +1,47 @@
+name: grostok
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  add_to_cart_animation: ^2.0.4
+  cached_network_image: ^3.4.1
+  carousel_slider: ^5.0.0
+  cupertino_icons: ^1.0.8
+  dartz: ^0.10.1
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.2
+  flutter_bloc: ^9.1.0
+  flutter_bounceable: ^1.2.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_rating_bar: ^4.0.1
+  flutter_svg: ^2.0.17
+  fluttertoast: ^8.2.12
+  google_fonts: ^6.2.1
+  http: ^1.3.0
+  intl: ^0.20.2
+  shared_preferences: ^2.5.3
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/applogo.jpg"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svg/
